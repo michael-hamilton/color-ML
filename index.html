@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+	<head>
+		<title>ML Color Guesser</title>
+		<link type="text/css" rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+		<link type="text/css" rel="stylesheet" href="css/style.css">
+	</head>
+
+	<body>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+
+					<div class="row">
+						<div class="col-md-12">
+							<p>Colors stored - <span id="stored-color-total">0</span></p>
+							<div class="form-group">
+								<span class="btn btn-sm btn-dark train-network">Train Network</span>
+								<div class="btn btn-sm btn-dark guess-color">Guess Color</div>
+								<div class="btn btn-sm btn-dark import-training-data">Import Training Data</div>
+								<div class="btn btn-sm btn-dark export-training-data">Export Training Data</div>
+								<input id="trained-data" class="form-control" type="text" placeholder="training data">
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="color-output"></div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="btn btn-sm color-button red white-text" data-color="red">Red</div>
+							<div class="btn btn-sm color-button orange white-text" data-color="orange">Orange</div>
+							<div class="btn btn-sm color-button yellow " data-color="yellow">Yellow</div>
+							<div class="btn btn-sm color-button yellowgreen white-text" data-color="yellowgreen">Yellow Green</div>
+							<div class="btn btn-sm color-button green white-text" data-color="green">Green</div>
+							<div class="btn btn-sm color-button teal white-text" data-color="teal">Teal</div>
+							<div class="btn btn-sm color-button blue white-text" data-color="blue">Blue</div>
+							<div class="btn btn-sm color-button indigo white-text" data-color="indigo">Indigo</div>
+							<div class="btn btn-sm color-button purple white-text" data-color="purple">Purple</div>
+							<div class="btn btn-sm color-button pink white-text" data-color="pink">Pink</div>
+							<div class="btn btn-sm color-button black white-text" data-color="black">Black</div>
+							<div class="btn btn-sm color-button brown white-text" data-color="brown">Brown</div>
+							<div class="btn btn-sm color-button gray white-text" data-color="gray">Gray</div>
+							<div class="btn btn-sm color-button white" data-color="white">White</div>
+						</div>
+					</div>
+
+					<div class="row">
+						 	<div class="form-group col-md-3">
+								<label>
+									Red - <span class="color-readout" data-color="red">0</span>
+									<input id="red" class="color-slider form-control" name="red" type="range" min="0" max="255" value="0">
+								</label>
+							</div>
+
+							<div class="form-group col-md-3">
+								<label>
+									Green - <span class="color-readout" data-color="green">0</span>
+									<input id="green" class="color-slider form-control" name="green" type="range" min="0" max="255" value="0">
+								</label>
+							</div>
+
+							<div class="form-group col-md-3">
+								<label>
+									Blue - <span class="color-readout" data-color="blue">0</span>
+									<input id="blue" class="color-slider form-control" name="blue" type="range" min="0" max="255" value="0">
+								</label>
+							</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<script src="node_modules/brain.js/browser.js"></script>
+		<script src="node_modules/jquery/dist/jquery.js"></script>
+		<script src="js/color-picker.js"></script>
+	</body>
+
+</html>

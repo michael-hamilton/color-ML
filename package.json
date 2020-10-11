@@ -1,0 +1,16 @@
+{
+  "name": "color-ml",
+  "version": "0.0.0",
+  "description": "ML color guesser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "brain.js": "^1.2.8",
+    "jquery": "^3.3.1"
+  }
+}

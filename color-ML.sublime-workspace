@@ -1,0 +1,608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"tr",
+				"trainingData"
+			],
+			[
+				"result",
+				"resultMarkerCoords"
+			],
+			[
+				"res",
+				"resultStore"
+			],
+			[
+				"user",
+				"userMarkerCoords"
+			],
+			[
+				"render",
+				"renderUserMarker"
+			],
+			[
+				"fin",
+				"findBeerButton"
+			],
+			[
+				"modal",
+				"modalButtonText"
+			],
+			[
+				"get",
+				"getRegionObject"
+			],
+			[
+				"in",
+				"inputValue"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"init",
+				"initSearchForm"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"even",
+				"evenLinks"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"background-p",
+				"background-position\tproperty"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"conver",
+				"convertXMLToJSON"
+			],
+			[
+				"fetch",
+				"fetchSitemap"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/color-picker.js",
+			"settings":
+			{
+				"buffer_size": 3391,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/trained.js",
+			"settings":
+			{
+				"buffer_size": 7513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 865,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set syntax: bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"clear",
+			"\"hello\"",
+			"hello",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/color-ML",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/color-ML/css",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/color-ML/js"
+	],
+	"file_history":
+	[
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/color-ML/js/trained.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/color-ML/.gitignore",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UHG/UHG-RC/settings/settings.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/Search.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/assets/beer32x32.png",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/assets/beer64x64.png",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/app.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/index.html",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/color-ML/css/style.css",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/package.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/styles.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/Modal.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/Map.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/untitled",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/styles/styles.js",
+		"/Users/michaelhamilton/Desktop/icon.png",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/package-lock.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/AI Beer Finder App/beer-finder/csv.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/app.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/Display.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/Buttons.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/appStyles.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/App.css",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/handleClick.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/Button.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/App.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/expo/demo-expo-project/.watchmanconfig",
+		"/Users/michaelhamilton/Documents/Ricochet/Experiments/vulcan-starter/Vulcan-Starter/settings.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/packages/example-forum/package.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/packages/vulcan-lib/package.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/jsconfig.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/jsdoc-conf.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/settings.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/jsdoc.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/package.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/packages/vulcan-lib/lib/modules/config.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/packages/vulcan-core/package.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/js/script.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/footer.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/components.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/yarn.lock",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Scope/sample_settings.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/theme-settings.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--info-row.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/modules/contrib/paragraphs/paragraphs-collapse_paragraph_item-2273555-25.patch",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/modules/contrib/paragraphs/untitled.diff",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/page--component-page.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/layouts/layout-3col/layout-3col.twig",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/page.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/settings.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/browser.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/package.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins-patch/cordova-sql-lite.patch",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins-patch/music-controls.patch",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins-patch/cordova-sql-lite.txt",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins-patch/plugin-status.txt",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/config.xml",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/ionic.project",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/android.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/fetch.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/cordova-plugin-google-analytics/plugin.xml",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/cordova-plugin-inappbrowser/plugin.xml",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/cc.fovea.cordova.purchase/plugin.xml",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Manager Tools/MT/MT/plugins/cc.fovea.cordova.purchase/Makefile",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--tabbed-menu.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-menu-item-link.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--tabbed-menu-item-link.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field_tabbed_menu_link_url.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field_tabbed_menu_link_title.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-tabbed-menu-item.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-text.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-title.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--text-body.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/Dockerfile",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/styles.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/modules/features/ucsf_health_experience_blocks/ucsf_health_experience_blocks.features.fe_block_settings.inc",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/CookieCrawler/Dockerfile",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/modules/price.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/invoice.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/migrate/1_prod_base.json",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/sql/entry.sql",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/sql/invoice_jobs.sql",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/invoice_jobs.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/sql/resource_types.sql",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/dso.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/.gitignore",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/pushpin_rationalizer.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Ricochet/AccountingAndMetrics/sql/invoice.sql",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-info-row-anchor.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-info-row-image-position.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-menu-item-title.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/template.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--tabbed-menu-item.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Beer Search/beer.sh",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Beer Search/index.html",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Beer Search/beersearch.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Beer Search/csv.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/Beer Search/jquery.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field_menu_item_links.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-hero-image.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--info-row-image.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-body.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field-collection-item--field-child-buttons.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-info-rows-container-title.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/body.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/tabs.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/components/box/_box.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--info-rows-container.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/node.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/sites.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--info-row-image-position.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-info-row-image-container.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/css/styles.css",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/gulpfile.js",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/paragraphs-item--content-text.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/healthexperience.ucsf.edu/settings.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field--field-hero-image.tpl.php .php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/templates/field.tpl.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/stylesheets/custom/page.css",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/stylesheets/styles.css",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/dev.healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/content-panel.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/healthexperience.ucsf.edu/themes/custom/healthexp/gulpfile.js",
+		"/Users/michaelhamilton/Desktop/settings.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/healthexperience.ucsf.edu/themes/custom/healthexp/template.php",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/healthexperience.ucsf.edu/themes/custom/healthexp/css/styles.css",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/healthexperience.ucsf.edu/themes/custom/healthexp/sass/styles.scss",
+		"/Users/michaelhamilton/Documents/Ricochet/Projects/UCSF/UHER/docroot/sites/healthexperience.ucsf.edu/themes/custom/healthexp/sass/custom/content-panel.scss"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\"sizes\":[3,3,14],\"layers\":[{\"red\":{},\"green\":{},\"blue\":{}},{\"0\":{\"bias\":-9.654824256896973,\"weights\":{\"red\":11.727707862854004,\"green\":8.683201789855957,\"blue\":6.606624603271484}},\"1\":{\"bias\":7.935181617736816,\"weights\":{\"red\":-30.491973876953125,\"green\":-7.832723140716553,\"blue\":-3.4325573444366455}},\"2\":{\"bias\":-24.929367065429688,\"weights\":{\"red\":29.734783172607422,\"green\":-4.558133602142334,\"blue\":-22.584949493408203}}},{\"red\":{\"bias\":3.820927858352661,\"weights\":{\"0\":-38.187217712402344,\"1\":-31.0231876373291,\"2\":-0.0002886504225898534}},\"green\":{\"bias\":-1.616317629814148,\"weights\":{\"0\":0.23093783855438232,\"1\":1.940593957901001,\"2\":-12.341362953186035}},\"blue\":{\"bias\":-31.314971923828125,\"weights\":{\"0\":30.196006774902344,\"1\":31.203441619873047,\"2\":-1.3057825565338135}},\"teal\":{\"bias\":-2.37857723236084,\"weights\":{\"0\":0.025875581428408623,\"1\":0.5109904408454895,\"2\":-9.631965637207031}},\"yellow\":{\"bias\":-4.109527587890625,\"weights\":{\"0\":0.6592997312545776,\"1\":-5.602328300476074,\"2\":-2.641674518585205}},\"brown\":{\"bias\":-2.229280948638916,\"weights\":{\"0\":0.3659224510192871,\"1\":-18.696388244628906,\"2\":-11.700566291809082}},\"yellowgreen\":{\"bias\":-3.6417934894561768,\"weights\":{\"0\":1.0338860750198364,\"1\":-0.8515526652336121,\"2\":-6.342329502105713}},\"pink\":{\"bias\":-1.556713342666626,\"weights\":{\"0\":-1.176836371421814,\"1\":-1.3177064657211304,\"2\":-3.8042349815368652}},\"purple\":{\"bias\":-1.2585194110870361,\"weights\":{\"0\":-1.5975044965744019,\"1\":-0.2230657935142517,\"2\":14.074810028076172}},\"indigo\":{\"bias\":-3.242450475692749,\"weights\":{\"0\":0.30504176020622253,\"1\":-7.414292812347412,\"2\":-6.386082172393799}},\"orange\":{\"bias\":-11.8011474609375,\"weights\":{\"0\":9.299664497375488,\"1\":-4.527828693389893,\"2\":-1.1623958349227905}},\"black\":{\"bias\":-5.561379909515381,\"weights\":{\"0\":1.0478668212890625,\"1\":-1.631793737411499,\"2\":-2.4919445514678955}},\"gray\":{\"bias\":-1.5079240798950195,\"weights\":{\"0\":-2.6205785274505615,\"1\":-5.602957248687744,\"2\":-3.6801981925964355}},\"white\":{\"bias\":-4.6358795166015625,\"weights\":{\"0\":-0.040137436240911484,\"1\":-2.9137861728668213,\"2\":-1.87203049659729}}}],\"outputLookup\":true,\"inputLookup\":true,\"activation\":\"sigmoid\",\"trainOpts\":{\"iterations\":20000,\"errorThresh\":0.005,\"log\":false,\"logPeriod\":10,\"learningRate\":0.3,\"momentum\":0.1,\"callbackPeriod\":10}}",
+			"color-n",
+			"guessColor",
+			"updateColo",
+			"ColorSlider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ColorML"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/color-picker.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2421,
+								2421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1482.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/trained.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 51757.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1100,
+								1100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 441.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "color-ML.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1310.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

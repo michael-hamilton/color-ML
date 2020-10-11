@@ -1,0 +1,22 @@
+.color-output {
+	border: 1px solid #373737;
+	min-height: 120px;
+	min-width: 240px;
+}
+
+.color-button.red { background-color: red; }
+.color-button.brown { background-color: brown; }
+.color-button.orange { background-color: orange; }
+.color-button.yellow { background-color: yellow; }
+.color-button.yellowgreen { background-color: yellowgreen; }
+.color-button.green { background-color: green; }
+.color-button.teal { background-color: teal; }
+.color-button.blue { background-color: blue; }
+.color-button.indigo { background-color: indigo; }
+.color-button.purple { background-color: purple; }
+.color-button.pink { background-color: pink; }
+.color-button.white { background-color: white; }
+.color-button.gray { background-color: gray; }
+.color-button.black { background-color: black; }
+.color-button.white-text { color: white; }
+.color-button.black-text { color: black; }
