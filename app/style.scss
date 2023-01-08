@@ -1,0 +1,106 @@
+.app-container {
+	align-items: center;
+	background-color: #222222;
+	display: flex;
+	font-family: sans-serif;
+	font-weight: 100;
+	height: 100%;
+	justify-content: center;
+	width: 100%;
+}
+
+.wrapper {
+	background-color: #eeeeee;
+	border-radius: 1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 2rem;
+	width: 24rem;
+
+	h1 {
+		margin-bottom: 2rem;
+		text-align: center;
+	}
+
+	.output-wrapper {
+		display: flex;
+		justify-content: space-around;
+
+		.color-output {
+			align-items: center;
+			display: flex;
+			height: 10rem;
+			justify-content: center;
+			margin: 0 auto;
+			width: 10rem;
+
+			h2 {
+				color: white;
+				text-shadow: 0 0 0.2rem #373737;
+			}
+		}
+
+		.training-wrapper {
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+
+			button {
+				border: none;
+				border-radius: 2rem;
+				color: white;
+				padding: 1rem;
+
+				&.red {
+					background-color: red;
+
+					&:hover {
+						background-color: darken(red, 10%);
+					}
+				}
+
+				&.green {
+					background-color: green;
+
+					&:hover {
+						background-color: darken(green, 10%);
+					}
+				}
+
+				&.blue {
+					background-color: blue;
+
+					&:hover {
+						background-color: darken(blue, 10%);
+					}
+				}
+				
+				&:hover {
+					cursor: pointer;
+				}
+			}
+		}
+	}
+
+	.input-wrapper {
+		background-color: #cccccc;
+		border-radius: 2rem;
+		color: #373737;
+		display: flex;
+		flex-direction: column;
+		margin: 1rem;
+		padding: 1rem;
+		text-align: center;
+
+		label {
+			margin-bottom: 0.5rem;
+		}
+
+		input {
+			&:hover {
+				cursor: pointer;
+			}
+		}
+	}
+}
